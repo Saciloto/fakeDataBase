@@ -1,0 +1,23 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "client_id": "",
+      "cnpj": "20.711.662/0001-87",
+      "company": "WTM DO BRASIL SERVICOS LTDA",
+      "email": "wtmusa@wtminternational.group"
+    },
+    {
+      "id": 2,
+      "cnpj": "13.077.546/0001-92",
+      "company": "2RM TECNOLOGIA DA INFORMACAO S/A",
+      "email": "130775460001@wtminternational.group"
+    },
+    {
+      "id": 3,
+      "cnpj": "26.062.065/0001-55",
+      "company": "SMARTBR NEGOCIOS INTELIGENTES",
+      "email": "260620650001@wtminternational.group"
+    }
+  ]
+}
