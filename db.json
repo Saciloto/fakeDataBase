@@ -5,21 +5,24 @@
       "client_id": "cuuser_dhajkdhjkashd8saddhddhs8",
       "cnpj": "00.111.222/0001-87",
       "name": "WTM DO BRASIL SERVICOS LTDA",
-      "email": "wtm@teste.com"
+      "email": "wtm@teste.com",
+      "email_invoices": "invoices@teste.com"
     },
     {
       "id": 2,
       "client_id": "cuuser_dhhdasuhdiuashdashdsahd",
       "cnpj": "11.000.333/0001-92",
       "name": "2RM TECNOLOGIA DA INFORMACAO S/A",
-      "email": "0000000000001@wtminternational.group"
+      "email": "0000000000001@wtminternational.group",
+      "email_invoices": "inovoices@wtminternational.group"
     },
     {
       "id": 3,
       "client_id": "cuuser_hdsodhashdasdih9dsdhdhhd",
       "cnpj": "00.222.121/0001-55",
       "name": "SMARTBR NEGOCIOS INTELIGENTES",
-      "email": "0000000000002@wtminternational.group"
+      "email": "0000000000002@wtminternational.group",
+      "email_invoices": "invoices@wtminternational.group"
     }
   ]
 }
