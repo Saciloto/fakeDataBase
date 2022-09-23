@@ -25,15 +25,17 @@
       "email_invoices": "invoices@wtminternational.group"
     }
   ],
-  "auth": {
-    "token": [
-      {
-        "id": "1",
-        "name": "Vagner Paes",
-        "email": "vagner.paes@wtmdobrasil.com",
-        "password": "1234567",
-        "image": "https://www.w3schools.com/howto/img_avatar.png"
-      }
-    ]
-  }
+  "auth": [
+    {
+      "token": [
+        {
+          "id": "1",
+          "name": "Vagner Paes",
+          "email": "vagner.paes@wtmdobrasil.com",
+          "password": "1234567",
+          "image": "https://www.w3schools.com/howto/img_avatar.png"
+        }
+      ]
+    }
+  ]
 }
